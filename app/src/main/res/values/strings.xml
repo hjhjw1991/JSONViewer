@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">JSONViewer</string>
+    <string name="save_btn_text">保存</string>
+    <string name="json_key">key:</string>
+    <string name="json_value">value</string>
+    <string name="json_value_type">type</string>
+    <string name="splash_hint">click anywhere to experience</string>
+</resources>
